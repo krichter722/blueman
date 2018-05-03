@@ -25,6 +25,7 @@ matrix:
         - make
         - make check
         - sudo make install
+        - blueman-manager
 
     - language: python
       python: "3.6"
